@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Po-Chih
+   last: Lin
+email: pcl322@nyu.edu
+leaderboard: PCL
